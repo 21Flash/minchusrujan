@@ -1,1 +1,1 @@
-print("MS")
+print("MS SM")
